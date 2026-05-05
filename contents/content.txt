@@ -1,0 +1,119 @@
+AI CLUB PAGE CONTENT
+
+
+# About
+
+IMAGE: https://vikrantuniversity.ac.in/static/images/research/ieee/ieee-banner.webp
+
+The AI Club at Vikrant University is a platform for innovation, technical growth and collaborative learning in the field of Artificial Intelligence. We provide students with practical exposure beyond academics by engaging them in workshops, projects, challenges and real-world applications of AI across various disciplines.
+
+
+## Our Mission
+Our mission is to engage, support and empower students by providing opportunities to explore Artificial Intelligence through hands-on learning, teamwork and leadership. The AI Club encourages students to collaborate with peers, faculty and industry professionals to enhance their technical and professional development.
+
+Participate in AI workshops, hackathons and technical challenges.
+Develop problem-solving skills, creativity and teamwork through project-based learning.
+Explore opportunities for innovation, research and real-world AI applications.
+Build and contribute to collaborative projects and shared resources.
+Access learning materials, tools and guidance to grow in AI and technology.
+
+
+## Vision
+“Campus to Community: AI for Impact”
+
+Our vision is to inspire students to become innovative thinkers and responsible leaders who use Artificial Intelligence to solve real-world problems.
+
+By fostering a culture of collaboration, integrity and technical excellence, we aim to bridge academic learning with meaningful real-life applications—using AI as a tool for positive change and societal impact.
+
+
+## Our Core Values
+
+Innovation & Excellence – Encouraging creativity, new ideas and continuous improvement in AI and technology.
+Leadership & Empowerment – Building confident leaders through real-world experiences and teamwork.
+Integrity & Responsibility – Promoting ethical use of AI and maintaining professionalism in all activities.
+Collaboration & Networking – Connecting students with peers, mentors and industry communities.
+Real-World Impact – Applying AI to solve meaningful problems and create positive change.
+Inclusivity & Diversity – Welcoming students from all backgrounds, skills and disciplines.
+
+In short, these values guide us to innovate, act responsibly, lead with purpose, collaborate effectively and create real impact—shaping a smarter and more inclusive future through AI.
+
+
+# Benefits of Membership
+
+- Practical Learning – Gain hands-on experience by building real AI-based projects.
+- Skill Development – Improve technical, analytical, and problem-solving skills.
+- Career Growth – Get exposure to modern technologies and industry trends.
+- Leadership – Take initiative, lead projects and manage teams.
+- Collaboration – Work with like-minded peers and expand your network.
+- Innovation – Build solutions to real-world problems using AI.
+- Opportunities – Participate in competitions, challenges and events.
+- Resources Access – Learn through shared materials, tools and mentorship.
+- Recognition – Showcase your work and achievements within the community.
+
+
+# AI Club Members and Their Roles
+
+Executive Committee
+| Sno. | Member Name  | Designation         |
+| ---- | ------------ | ------------------- |
+| 1    | Prof. [Name] | Faculty Coordinator |
+| 2    | Prof. [Name] | Co-Coordinator      |
+| 3    | Prof. [Name] | Mentor              |
+
+# AI Club Member
+| Sno. | Member Name       | Designation      | Course    |
+| ---- | ----------------- | ---------------- | --------- |
+| 1    | Virendra          | Technical Lead   | BTech CSE |
+| 2    | [Name]            | President      | BTech CSE |
+| 3    | [Name]            | Vice President| BTech CSE |
+| 4    | [Name]            | Secretary        | BTech CSE |
+| 5    | [Name]            | Member           | BTech CSE |
+| 6    | [Name]            | Treasurer        | BCA       |
+| 7    | [Name]            | Member           | BTech CSE |
+| 8    | [Name]            | Member           | BTech IT  |
+
+
+
+# KEY ACTIVITIES
+
+
+NeuroSpark 1.0 – AI Quiz & Creativity Challenge
+
+The AI Club, Vikrant University, successfully organized NeuroSpark 1.0, an engaging event focused on testing knowledge and creativity in Artificial Intelligence.
+
+The event consisted of two exciting rounds:
+AI Quiz Round – Covered topics like basics of AI, machine learning, applications of AI, virtual assistants, AI in various domains and popular AI tools.
+Presentation Round – Participants created presentations using AI tools, showcasing how AI can be applied in their respective disciplines.
+
+The event encouraged students to think innovatively and apply AI concepts in real-world scenarios. Participants demonstrated creativity, technical understanding and presentation skills.
+
+The program was supported by faculty coordinators and executed successfully with the efforts of the AI Club core team.
+
+“NeuroSpark 1.0 was not just a competition – it was a platform to explore, create and innovate with AI.”
+
+[NeuroSpark Pics | NeuroSpark Pics | NeuroSpark Pics | NeuroSpark Pics]
+
+
+# AI Club Inauguration
+
+The AI Club Inauguration was held on April 20, 2026, marking a significant milestone for Vikrant University in promoting innovation and practical learning in the field of Artificial Intelligence.
+
+The event witnessed enthusiastic participation from students across various departments and included the introduction of the AI Club’s vision, mission and future roadmap. The core team was officially introduced, highlighting their roles and responsibilities in driving the club’s activities.
+
+The inauguration also featured the recognition of student leaders, symbolizing their commitment to learning, innovation and collaborative growth in AI and technology.
+
+The session aimed to inspire students to explore AI, build real-world solutions and actively contribute to the club’s initiatives.
+
+“The inauguration marked the beginning of a journey towards innovation, learning, and building with AI.”
+
+[Inauguration Pics | Inauguration Pics | Inauguration Pics | Inauguration Pics]
+
+
+
+#Create. Build. Innovate.
+
+At the AI Club, Vikrant University, we empower students to explore ideas, develop skills and create meaningful solutions using Artificial Intelligence. We provide a platform where curiosity meets innovation and learning turns into real-world impact.
+
+Be a part of a growing community where your skills, creativity and vision can shape the future of technology.
+
+# The journey begins here — Join AI Club.
