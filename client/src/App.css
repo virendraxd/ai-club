@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+:root {
+    --primary-accent: hsl(36, 94%, 46%);
+    --primary-dark: hsl(36, 94%, 46%);
+}
