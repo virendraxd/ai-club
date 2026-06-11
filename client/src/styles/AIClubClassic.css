@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root {
+    --primary-accent: hsl(212, 100%, 14%);
+    --secondary-accent: hsl(36, 94%, 46%);
+    
+    --text-color: hsl(220, 12%, 65%);
+    --bg-primary: hsl(0, 0%, 100%);
+
+    --font-outfit: "Outfit", sans-serif;
+}
