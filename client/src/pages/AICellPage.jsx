@@ -16,7 +16,7 @@ function AICellPage() {
       </button>
 
       {/* Left Sidebar Navigation */}
-      <aside className={`w-64 bg-[#002147] text-white p-8 flex-shrink-0 sticky top-0 h-screen overflow-y-auto ${isSidebarOpen ? 'block' : 'hidden'} md:block fixed md:static z-40`}>
+      <aside className={`w-64 bg-[#002147] text-white p-8 shrink-0 sticky top-0 h-screen overflow-y-auto ${isSidebarOpen ? 'block' : 'hidden'} md:block fixed md:static z-40`}>
         <div className="flex items-center gap-4 mb-12 mt-12 md:mt-0">
           <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center text-[#002147] font-bold text-xl italic">VU</div>
           <div>
@@ -63,8 +63,8 @@ function AICellPage() {
 
         {/* Main Banner */}
         <div className="max-w-7xl mx-auto px-4 -mt-12 relative z-20">
-          <div className="bg-white rounded-xl shadow-2xl overflow-hidden aspect-[21/9] flex items-center justify-center border-4 border-white">
-            <div className="w-full h-full bg-gradient-to-br from-blue-900 to-[#002147] flex flex-col items-center justify-center text-center p-6 md:p-12">
+          <div className="bg-white rounded-xl shadow-2xl overflow-hidden aspect-21/9 flex items-center justify-center border-4 border-white">
+            <div className="w-full h-full bg-linear-to-br from-blue-900 to-[#002147] flex flex-col items-center justify-center text-center p-6 md:p-12">
               <h3 className="text-2xl md:text-5xl font-bold text-white mb-6">"One Campus. Many Disciplines. Infinite Intelligence."</h3>
               <button className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:scale-105 shadow-lg">
                 Explore Our Initiatives
@@ -78,11 +78,11 @@ function AICellPage() {
           <section id="about" className="mb-20 overflow-hidden">
             <div className="flex flex-col gap-12 items-start">
               <div className="flex-1 w-full">
-                <h3 className="text-3xl font-bold text-[#002147] mb-8 relative inline-block break-words">
+                <h3 className="text-3xl font-bold text-[#002147] mb-8 relative inline-block wrap-break-word">
                   About AI Cell
                   <span className="absolute bottom-0 left-0 w-1/2 h-1 bg-orange-500 -mb-2"></span>
                 </h3>
-                <div className="prose prose-lg text-gray-700 leading-relaxed space-y-6 break-words">
+                <div className="prose prose-lg text-gray-700 leading-relaxed space-y-6 wrap-break-word">
                   <p>
                     The AI Cell at Vikrant University is a multidisciplinary platform established to promote
                     awareness, innovation, research, and skill development in the field of Artificial Intelligence (AI).
@@ -126,7 +126,7 @@ function AICellPage() {
             </div>
 
             <div className="mt-16 grid md:grid-cols-2 gap-12">
-              <div className="bg-white p-4 sm:p-8 rounded-2xl shadow-sm border border-gray-100 break-words">
+              <div className="bg-white p-4 sm:p-8 rounded-2xl shadow-sm border border-gray-100 wrap-break-word">
                 <h4 className="text-2xl font-bold text-[#002147] mb-6 border-l-4 border-orange-500 pl-4">Multidisciplinary Nature of the AI Cell</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   The AI Cell is built on the belief that Artificial Intelligence is not limited to a single discipline. 
@@ -147,7 +147,7 @@ function AICellPage() {
                   AI Cell encourages holistic learning and collaborative innovation.
                 </p>
               </div>
-              <div className="bg-white p-4 sm:p-8 rounded-2xl shadow-sm border border-gray-100 break-words">
+              <div className="bg-white p-4 sm:p-8 rounded-2xl shadow-sm border border-gray-100 wrap-break-word">
                 <h4 className="text-2xl font-bold text-[#002147] mb-6 border-l-4 border-[#002147] pl-4">Collaboration across Schools</h4>
                 <p className="text-gray-700 leading-relaxed mb-4">
                   One of the defining features of the AI Cell is its ability to connect students and faculty members 
